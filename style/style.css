@@ -1,0 +1,171 @@
+.azeret-mono-ektihar {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+
+
+  /* header section */
+
+.header{
+    display:flex;
+    flex-direction:column;
+    
+}
+
+.top{
+    
+    margin-top:49px;
+}
+
+
+
+/* image-section */
+
+.image-1{
+    display:flex;
+    justify-content:center;
+}
+
+
+/* title styles */
+
+.banner-title{
+    font-weight:800px;
+    font-size:48px;
+    color:#0D1321;
+    text-align:center;
+    margin-bottom:24px;
+}
+
+.banner-description{
+    font-size:16px;
+    font-weight:400px;
+    color:#0D1321;
+    text-align:center;
+    /* margin-top:24px; */
+
+}
+
+
+.title-2{
+    font-weight:800px;
+    font-size:32px;
+    color:#0D1321;
+    text-align:center;
+    margin-top:174px;
+}
+
+.description-2{
+    font-size:16px;
+    font-weight:400px;
+    color:#0D1321;
+    text-align:center;
+    
+}
+
+.des-2{
+    font-size:16px;
+    font-weight:400px;
+    color:#0D1321;
+    margin-left:10px;
+}
+
+.des-3{
+    font-size:16px;
+    font-weight:400px;
+    color:#0D1321;
+    margin-left:
+}
+
+
+
+
+/* sub-title */
+
+.sub-title{
+    font-size:24px;
+    font-weight:700px;
+    color:#0D1321;
+    margin-bottom:16px;
+    
+}
+
+
+/* button section */
+
+.button{
+    display:flex;
+    justify-content:center;
+}
+
+.btn{
+    color:#FFFFFF;
+    font-size:20px;
+    font-weight:600px;
+    background-color:#0D1321;
+    border-radius:5px;
+    border:none;
+    padding:20px;
+    margin-top:20px;
+    margin-bottom:45px;
+}
+
+.btn-0{
+    background-color:#0D1321;
+    color:#FFFFFF;
+    text-decoration:none;
+    border-radius:5px;
+    border:2px;
+    padding:10px;
+    
+    
+}
+
+.button-font{
+    font-size:20px;
+    font-weight:600px;
+    
+}
+
+
+/* reason of deb */
+
+
+.reason-of-deb{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    gap:120px;
+}
+
+
+
+.I-will-do{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-left:0px;
+    border:none;
+    border-radius:2px;
+    box-shadow: 3px;
+}
+
+main{
+    width:100%;
+}
+
+
+.why-web{
+    
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    border:2px;
+    border-radius:10px;
+
+}
+
