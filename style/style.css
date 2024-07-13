@@ -49,6 +49,13 @@
 
 }
 
+.html-title{
+    font-weight:800px;
+    font-size:24px;
+    color:#0D1321;
+    /* margin-bottom:5px; */
+}
+
 
 .title-2{
     font-weight:800px;
@@ -78,6 +85,13 @@
     font-weight:400px;
     color:#0D1321;
     margin-left:
+}
+
+.des-4{
+    font-size:16px;
+    font-weight:400px;
+    color:#0D1321;
+    text-align:center;
 }
 
 
@@ -169,3 +183,25 @@ main{
 
 }
 
+
+.video{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    /* border:2px black; */
+    /* border-radius:5px; */
+}
+
+.html{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.HTML-5{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+}
